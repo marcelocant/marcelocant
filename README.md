@@ -9,5 +9,5 @@ FullStack Developer :computer:
  <br/> :blush: &nbsp; I can help you with CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Main Stack: ReactJS, Node.js, Typescript
  <br/> 💬  &nbsp; About me: guitar player and beer lover
- <br/> :profile: [Linkedin](https://www.linkedin.com/in/cavalcantemarcelo/)
- <br/> :email: [marcelo@vasto.com.br](mailto:marcelo@vasto.com.br)
+ <br/> :car: &nbsp; [Linkedin](https://www.linkedin.com/in/cavalcantemarcelo/)
+ <br/> :email: &nbsp; [marcelo@vasto.com.br](mailto:marcelo@vasto.com.br)
